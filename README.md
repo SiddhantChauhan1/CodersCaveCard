@@ -7,5 +7,7 @@
       <li> CSS </li>
       <li> JavaScript </li>
     </ul>
+    <h2>Screenshot</h2>
+    <img src="CardSS.jpg"/>
   </body>
 </html>
